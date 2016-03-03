@@ -171,8 +171,8 @@ header .profile-image:hover {
 .card-picture {
   display: block;
   text-align: center;
-  width: auto;
-  height: 400px;
+  width: 100%;
+  height: 450px;
 }
 
 #pagetitle {
@@ -181,7 +181,8 @@ header .profile-image:hover {
   max-width: 100%;
   margin: 0px;
   color: #fff;
-
+  font-family: 'Italianno', 'Raleway', sans-serif;
+  font-size: 1.25em;
 }
 
 ul.skills {
